@@ -1,0 +1,12 @@
+File Uploading With AJAX(Without Page Reload)
+
+Client --- AJAX -->  Server ---> Database --->Table
+
+Security 
+
+
+https://www.w3schools.com/jquERy/ajax_ajax.asp
+https://www.w3schools.com/jquERy/jquery_ref_ajax.asp
+https://www.w3schools.com/tags/att_input_accept.asp
+
+https://javascript.info/formdata
